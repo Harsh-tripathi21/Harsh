@@ -1,6 +1,6 @@
 # Hi there Harsh this side
 <h1 align="center">Hi 👋, I'm Harsh-tripathi</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate FULL STACK DEVELOPER from India</h3>
 
 - 🌱 I’m currently learning **Html,Css,full stack development**
 
