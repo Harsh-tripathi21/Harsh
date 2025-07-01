@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harsh-tripathi</h1>
 <h3 align="center">A passionate FULL STACK DEVELOPER from India</h3>
 
-- 🌱 I’m currently learning **Html,Css,full stack development**
+- 🌱 I’m currently learning **Html, Css , JS , full stack development**
 
 - 💬 Ask me about **c++ , python**
 
